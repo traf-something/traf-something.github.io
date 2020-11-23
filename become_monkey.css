@@ -1,3 +1,7 @@
 article {
-  border: 5px solid green;
+  border: 5px solid black;
+  float: left;
+  width: 300px;
+  height: 40px;
+  
 }
