@@ -9,3 +9,11 @@ article {
 body {
   background-color: green;
 }
+
+
+header {width: auto;
+background-color: green;
+border: 1px;
+width: 1000px;
+text-align: center;}
+
