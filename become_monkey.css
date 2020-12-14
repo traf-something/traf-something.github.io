@@ -1,3 +1,6 @@
+header { border: 5px solid black;
+  text-align: centre;}
+
 article {
   border: 5px solid black;
   float: left;
@@ -7,13 +10,5 @@ article {
 }
 
 body {
-  background-color: green;
+  background-image: url(monkey2.jpg);
 }
-
-
-header {
-background-color: green;
-border: solid black 1px;
-width: 1000px;
-text-align: center;}
-
