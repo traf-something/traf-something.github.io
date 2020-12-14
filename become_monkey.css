@@ -11,7 +11,7 @@ body {
 }
 
 
-header {width: auto;
+header {
 background-color: green;
 border: solid black 1px;
 width: 1000px;
