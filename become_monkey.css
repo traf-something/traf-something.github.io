@@ -1,5 +1,11 @@
-header { border: 5px solid black;
-  text-align: centre;}
+header {
+background-color: green;
+border: solid black 2px;
+width: 1000px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;}
+
 
 article {
   border: 5px solid black;
