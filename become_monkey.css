@@ -19,4 +19,5 @@ article {
 
 body {
   background-image: url(monkey2.jpg);
+  background-size: 100%;
 }
