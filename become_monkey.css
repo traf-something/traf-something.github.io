@@ -19,6 +19,10 @@ nav {
 
 nav:hover {background-color: lime;}
 
+a {text-decoration: none;}
+a:hover {text-decoration-line: underline;
+color: blue;} 
+
 body {
   background-image: url(monkey4.png);
   background-size: cover;
