@@ -8,7 +8,7 @@ margin-left: auto;
 margin-right: auto;}
 
 
-article {
+nav {
   border: 5px solid black;
   float: left;
   width: 300px;
@@ -17,7 +17,7 @@ article {
   text-align: center;
 }
 
-article:hover {background-color: lime;}
+nav:hover {background-color: lime;}
 
 body {
   background-image: url(monkey4.png);
