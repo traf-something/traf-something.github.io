@@ -8,12 +8,15 @@ margin-left: auto;
 margin-right: auto;
 margin-bottom: : 50px;}
 
-nav {background-color: green;
-border: solid black 2px;
-width: 1000px;
-text-align: center;
-margin-left: auto;
-margin-right: auto;}
+
+nav {
+  border: 5px solid black;
+  float: left;
+  width: 300px;
+  height: 40px;
+  background-color: green;
+  text-align: center;
+}
 
 #legends {width: 1400px;
 height: 1200px;
