@@ -17,6 +17,8 @@ article {
   text-align: center;
 }
 
+article:hover {background-color: lime;}
+
 body {
   background-image: url(monkey4.png);
   background-size: cover;
