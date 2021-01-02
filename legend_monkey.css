@@ -18,6 +18,10 @@ nav {
   text-align: center;
 }
 
+nav:hover {background-color: lime;}
+
+a {color: black;
+  text-decoration: none;}
 #legends {width: 1400px;
 height: 1200px;
 }
