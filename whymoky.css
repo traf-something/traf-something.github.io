@@ -7,6 +7,9 @@ text-align: center;
 margin-left: auto;
 margin-right: auto;}
 
+header:hover {background-color: lime;}
+
+
 
 nav {
   border: 5px solid black;
@@ -28,3 +31,5 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat;
 }
+
+
