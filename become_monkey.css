@@ -28,7 +28,8 @@ article { background-color: green;
   border: solid black 2px;
   margin-right: auto;
   margin-left: auto;
-  margin-bottom: 20px;}
+  margin-bottom: 20px;
+float: under;}
 
 body {
   background-image: url(jungle.jpg);
