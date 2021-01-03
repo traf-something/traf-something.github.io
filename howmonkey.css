@@ -1,0 +1,33 @@
+header {
+
+background-color: green;
+border: solid black 2px;
+width: 1000px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;}
+
+header:hover {background-color: lime;}
+
+
+
+nav {
+  border: 5px solid black;
+  float: left;
+  width: 300px;
+  height: 40px;
+  background-color: green;
+  text-align: center;
+}
+
+nav:hover {background-color: lime;}
+
+a {color: black;
+  text-decoration: none;}
+
+body {
+  background-image: url(jungle.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
