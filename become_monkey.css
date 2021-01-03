@@ -24,7 +24,8 @@ a {color: black;
 
 article { background-color: green;
   text-align: center;
-  width: 700px;
+  width: 499px;
+  height: auto;
   border: solid black 2px;
   margin-right: auto;
   margin-left: auto;
