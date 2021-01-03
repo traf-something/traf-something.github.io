@@ -25,6 +25,17 @@ nav:hover {background-color: lime;}
 a {color: black;
   text-decoration: none;}
 
+article {width:499px;
+  text-align: center;
+  background-color: green;
+  border: solid black 1px;}
+  
+
+
+
+
+
+
 body {
   background-image: url(jungle.jpg);
   background-size: cover;
