@@ -28,7 +28,10 @@ a {color: black;
 article {width:499px;
   text-align: center;
   background-color: green;
-  border: solid black 1px;}
+  border: solid black 1px;
+ margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 37px;}
   
 
 
